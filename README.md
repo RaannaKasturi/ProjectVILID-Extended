@@ -1,35 +1,32 @@
-# Project VILID (Extended)
+# Project VILID - Extended (Visually Impelled Limitless Imagination Design)
 
-This project is planned to be the extended version of the earlier one, VILID Colabs, https://github.com/RaannaKasturi/VILID-Colabs, which was the part of Project VILID, one of the modification based project from my pre-github phase and whose source codes are nowhere to be found. 
-In short and sweet. This, Project VILID (Extended) is the extension of Project VILID and it encompasses more features and much better ones.
+Project VILID (Extended) isn't just an upgrade—it's a thrilling leap forward from its predecessor, VILID Colabs. This iteration builds upon the robust foundation of Project VILID, promising a wealth of enhanced features and an even more captivating user experience.
 
-## Project VILID (Extended) will be -
-- Much more fun to use
-- Much more user friendly
-- Encapsulated with much more features and tools
-- And, most of all, it'll be free. (Registration might be compulsory, post-completion of the project and final deployment)
+## Discover What Awaits in Project VILID (Extended):
+- **Amplified Enjoyment:** Brace yourself for an experience that not only fulfills but also excites.
+- **Seamless User Experience:** Navigation through Project VILID (Extended) is designed to be effortless, ensuring a smooth journey for all users.
+- **Expanded Arsenal of Tools:** Unleash your creativity with a rich array of new features and tools that empower you to achieve more.
+- **Free Access:** While registration may become a requisite post-launch, rest assured, Project VILID (Extended) remains accessible to all, free of charge.
 
-## Possible Programs/Softwares/Tools that will be available via Project VILID (Extended)
-[ ] Text-to-Prompt Generator
-[ ] Text-to-Image Generator
-[ ] Image-to-Image Generator
-[ ] Text-to-Video Generator
-[ ] Image-to-Video Generator
-[ ] Video-to-Video Generator
-[ ] Custom Model Training 
-Open for more Ideas 💡 . . .
+## Potential Programs/Tools:
+- [ ] Text-to-Prompt Generator
+- [ ] Text-to-Image Generator
+- [ ] Image-to-Image Generator
+- [ ] Text-to-Video Generator
+- [ ] Image-to-Video Generator
+- [ ] Video-to-Video Generator
+- [ ] Custom Model Training
+Feel free to share your ideas for additional programs/tools.
 
-## Possible integrations
-[ ] ControlNet/DeepFace into Text-to-Image & Image-to-Image Generator
-[ ] FaceSwap into Image-to-Image Generator
-[ ] Custom Model Training
-Open for more Ideas 💡 . . .
+## Possible Integrations:
+- [ ] ControlNet/OpenPose integration in the Text-to-Image & Image-to-Image Generators.
+- [ ] FaceSwap integration in the Image-to-Image Generator.
+- [ ] Custom Model Training
+We eagerly await your suggestions for further integrations.
 
-## Contributions
-This is not a personal project. Any individual intrested in contributing and/or having a Python and/or Web Development is welcomed.
-Project VILID will be primarily be based on Python, HTML, CSS & JS, for now. If necessary, more languages can be integrated as and how required by the developers.
-A through and detailed documentation is necessary before sending a pull request to this repository.
-What's more you're waiting for...
-Get your systems setted-up and fork this repository.
+## Join the Collaborative Effort:
+Project VILID (Extended) thrives on collaboration. Whether you're a Python aficionado, HTML virtuoso, CSS guru, or JS wizard, your expertise is invaluable. Contribute your skills to shape this project into something truly extraordinary. Remember, comprehensive documentation is key before submitting your pull requests.
 
-See you in Pull Requests ✨
+So, why delay? Embark on this exhilarating journey with us today. Fork the repository and let's elevate Project VILID (Extended) to new heights together.
+
+See you in the Pull Requests! ✨
