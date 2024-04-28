@@ -24,6 +24,14 @@ Feel free to share your ideas for additional programs/tools.
 - [ ] Custom Model Training
 We eagerly await your suggestions for further integrations.
 
+## Project Funders (Deployment)
+1. Divya Raje
+2. Jigyasa Jadhav
+3. Mayuresh Patil
+4. Nayan Kasturi
+5. Rishikesh Kamble
+6. Vishakha Jadhav
+
 ## Join the Collaborative Effort:
 Project VILID (Extended) thrives on collaboration. Whether you're a Python aficionado, HTML virtuoso, CSS guru, or JS wizard, your expertise is invaluable. Contribute your skills to shape this project into something truly extraordinary. Remember, comprehensive documentation is key before submitting your pull requests.
 
