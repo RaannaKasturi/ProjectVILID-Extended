@@ -29,4 +29,7 @@ Project VILID (Extended) thrives on collaboration. Whether you're a Python afici
 
 So, why delay? Embark on this exhilarating journey with us today. Fork the repository and let's elevate Project VILID (Extended) to new heights together.
 
+Also, don't forget to join telegram community to share your ideas and get help
+https://t.me/ProjectVILIDExt
+
 See you in the Pull Requests! ✨
