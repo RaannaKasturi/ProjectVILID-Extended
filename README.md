@@ -1,6 +1,6 @@
-# Project VILID - Extended (Visually Impelled Limitless Imagination Design)
+# Project VILIDe (Visually Impelled Limitless Imagination Design Extended)
 
-Project VILID (Extended) isn't just an upgrade—it's a thrilling leap forward from its predecessor, VILID Colabs. This iteration builds upon the robust foundation of Project VILID, promising a wealth of enhanced features and an even more captivating user experience.
+Project VILIDe isn't just an upgrade—it's a thrilling leap forward from its predecessor, VILID Colabs. This iteration builds upon the robust foundation of Project VILID, promising a wealth of enhanced features and an even more captivating user experience.
 
 ## Discover What Awaits in Project VILID (Extended):
 - **Amplified Enjoyment:** Brace yourself for an experience that not only fulfills but also excites.
